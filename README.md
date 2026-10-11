@@ -27,7 +27,7 @@ O GNV ficou fora porque é vendido em R$/m³ e os demais em R$/litro.
 
 - No ranking de municípios o eixo começa em R$ 6,00 para destacar as diferenças, que na prática são de centavos. Por isso os valores aparecem nas barras.
 - Sem filtro de produto, o ranking mistura todos os combustíveis. Para comparar municípios de forma justa, selecione um produto.
-- Alguns municípios têm poucas coletas, então o ranking deve ser lido com cuidado.
+  
 
 ## Arquivos
 

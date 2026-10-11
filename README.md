@@ -1,4 +1,6 @@
-# Dashboard de preços de combustíveis no RS (1º semestre de 2026)
+<img width="1492" height="827" alt="image" src="https://github.com/user-attachments/assets/da52fcfc-d568-475c-b679-5d71d64bb89e" /># Dashboard de preços de combustíveis no RS (1º semestre de 2026)
+
+![Dashboard](Dashboards.png)
 
 Dashboard em Power BI feito a partir dos dados de preços de combustíveis da ANP, já limpos no Projeto 1 (https://github.com/Bruno678-BR/limpeza-dados-combustiveis-rs).
 

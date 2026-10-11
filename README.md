@@ -1,4 +1,6 @@
-<img width="1492" height="827" alt="image" src="https://github.com/user-attachments/assets/da52fcfc-d568-475c-b679-5d71d64bb89e" /># Dashboard de preços de combustíveis no RS (1º semestre de 2026)
+# Dashboard de preços de combustíveis no RS (1º semestre de 2026)
+
+<img width="1492" height="827" alt="Dashboard de preços de combustíveis no RS" src="https://github.com/user-attachments/assets/da52fcfc-d568-475c-b679-5d71d64bb89e" />
 
 Dashboard em Power BI feito a partir dos dados de preços de combustíveis da ANP, já limpos no Projeto 1 (https://github.com/Bruno678-BR/limpeza-dados-combustiveis-rs).
 
@@ -27,12 +29,12 @@ O GNV ficou fora porque é vendido em R$/m³ e os demais em R$/litro.
 
 - No ranking de municípios o eixo começa em R$ 6,00 para destacar as diferenças, que na prática são de centavos. Por isso os valores aparecem nas barras.
 - Sem filtro de produto, o ranking mistura todos os combustíveis. Para comparar municípios de forma justa, selecione um produto.
-  
 
 ## Arquivos
 
 - `dashboard_combustiveis_rs.pbix`: arquivo do Power BI Desktop.
-- PDF e imagem do dashboard.
+- `dashboard_combustiveis_rs.pdf`: versão em PDF do dashboard.
+- `Dashboards.png`: imagem do dashboard.
 
 ## Ferramentas
 
